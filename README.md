@@ -7,7 +7,7 @@ _접속링크 : [http://qclass.iptime.org:3000](http://qclass.iptime.org:3000/)_
 
 ## 이 프로젝트를 보시기 위해선...
 
-1. git clone https://github.com/gareen9342/Final-Front-end.git    
+1. git clone https://github.com/KangCine/Project_SWith_KH_Final.git
 2. cd Final-Front-end 루트에서 npm i   
 3. npm run dev (개발모드)    
 
